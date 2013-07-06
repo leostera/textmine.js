@@ -1,0 +1,22 @@
+{
+  "name": "textmine.js",
+  "version": "0.0.0",
+  "description": "text mining for nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "Faker": "~0.5.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leostera/textmine.js.git"
+  },
+  "author": "Leandro Ostera <sayhi@leostera.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/leostera/textmine.js/issues"
+  }
+}
